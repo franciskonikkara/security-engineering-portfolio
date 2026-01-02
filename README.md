@@ -45,7 +45,7 @@ Each project is implemented in a **separate repository** and linked below.
 ---
 
 ## 📌 Execution Roadmap
-See: `/roadmap/execution-roadmap.md`
+See: `roadmap/execution-roadmap.md`
 
 ---
 
@@ -57,3 +57,4 @@ High-level, board-ready security summaries are available in `/executive-summarie
 ## 📬 Contact
 - LinkedIn: <link>
 - Email: <email>
+
