@@ -15,8 +15,9 @@ Each project is implemented in a **separate repository** and linked below.
 ## 🛠️ Projects
 
 ### 1️⃣ Secure CI/CD Pipeline (FedRAMP-Aligned DevSecOps)
+Designed and enforced a compliance-ready CI/CD pipeline with embedded SAST, secrets scanning, and container vulnerability gates, producing audit-grade evidence aligned to SOC 2 and ISO/IEC 27001 controls.
 **Focus:** SAST, Container Scanning, Policy-as-Code, Audit Evidence  
-🔗 Repo: https://github.com/<your-username>/secure-cicd-devsecops
+🔗 Repo: https://github.com/franciskonikkara/secure-cicd-devsecops
 
 ---
 
@@ -57,4 +58,5 @@ High-level, board-ready security summaries are available in `/executive-summarie
 ## 📬 Contact
 - LinkedIn: <link>
 - Email: <email>
+
 
